@@ -1,5 +1,6 @@
 pandas
-plotly
-streamlit
+plotly==5.18.0
+streamlit==1.35.0
 google-genai
 python-dotenv
+altair==4.2.2
